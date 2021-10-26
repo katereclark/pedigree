@@ -1,1 +1,3 @@
-# pedigree
+# Pedigree Project
+
+## Ideas
