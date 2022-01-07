@@ -1,4 +1,4 @@
-# Pedigree Project
+# Pedigree Chart Generator
 
 ## Description
 
